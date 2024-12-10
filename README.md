@@ -1,12 +1,9 @@
 ## Olá, sou Romeo
 
-Desenvolvedor Back-End com foco em aprimorar meu conhecimento em Node.js e MySQL Workbench. 
-Futuramente, pretendo expandir meus conhecimentos para Java e PHP.
+Desenvolvedor Back-End com foco em aprimorar meu conhecimento em Python. 
+Futuramente, pretendo expandir meus conhecimentos para PHP.
 
-- Node.js
-- MySQL Workbench
-- JavaScript
-- Java (planejado)
+- Python (Em pratica)
 - PHP (planejado)
 <!---
 
