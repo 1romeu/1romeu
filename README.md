@@ -1,9 +1,10 @@
 ## Olá, sou Romeo
 
 Desenvolvedor Back-End com foco em aprimorar meu conhecimento em Python. 
-Futuramente, pretendo expandir meus conhecimentos para PHP.
+Futuramente, pretendo expandir meus conhecimentos para Java e PHP.
 
 - Python (Em pratica)
+- Java(planejado)
 - PHP (planejado)
 <!---
 
